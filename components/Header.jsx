@@ -106,7 +106,7 @@ function Header() {
         <ul className="flex flex-row items-center space-x-4">
           <li className="flex items-center">
             <a href="#home" className="ml-2 text-black hover:text-gray-600 flex items-center">
-              <span role="img" aria-label="home" className="mr-2">🏠</span> Home
+              <span role="img" aria-label="home" className="mr-2">🏠</span> Projects
             </a>
           </li>
           <li className="flex items-center">
